@@ -26,3 +26,4 @@ It applies **classification models** like Logistic Regression, Decision Trees, R
 - `matplotlib`, `seaborn`
 - `scikit-learn`
 
+📊 Dataset: [Loan Approval Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset?resource=download)
